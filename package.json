@@ -1,0 +1,14 @@
+{
+  "name": "boost",
+  "version": "0.1.0",
+  "description": "Solve boost bitbash challenge",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wolnir",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.4.1"
+  }
+}
